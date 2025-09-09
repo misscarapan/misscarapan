@@ -1,32 +1,12 @@
 <img width="1584" height="396" alt="@sitioincreible (1)" src="https://github.com/user-attachments/assets/156a0491-9cf4-4f20-a87b-da6ea392d17f" />
 
 ## ¡Hola! Soy Cris AKA Carapan 😄
-
-
 SRE | DevOps | AWS Solutions Architect | Cloud | Platform | Mentora | Indie Dev
 
-## 🧠 Relevant Skills
-### 🔧 Dev
-- Git | GitHub | GitLab
-- Linux | Bash | Python
-- Docker | Jenkins | Kubernetes
-- Terraform | RabbitMQ
+<img width="1280" height="320" alt="devops-Photoroom" src="https://github.com/user-attachments/assets/2cbed87e-ee33-4039-8321-0de323d78ac7" />
 
-### ☁️ Cloud & Infra
-- AWS | Azure | GCP | OVH Cloud
-- Ansible | Nginx | Rancher
-- CI/CD 
 
-### 📊 Observabilidad
-- Prometheus | Grafana | Thanos | Victoria Metrics
-- Elastic | Kibana | ELK | New Relic
 
-### 🛢️ Bases de datos
-- PostgreSQL
-- MySQL
-
-### 🛠️ Herramientas
-- Linear | Notion | Asana | Azure Devops
 <!--
 **misscarapan/misscarapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
