@@ -1,4 +1,7 @@
+<img width="1584" height="396" alt="@sitioincreible (1)" src="https://github.com/user-attachments/assets/156a0491-9cf4-4f20-a87b-da6ea392d17f" />
+
 ## ¡Hola! Soy Cris AKA Carapan 😄
+
 
 SRE | DevOps | AWS Solutions Architect | Cloud | Platform | Mentora | Indie Dev
 
